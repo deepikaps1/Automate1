@@ -15,6 +15,8 @@ Latest Version of Selenium Webdriver
 Maven
 TestNG
 
+Project Structure
+------------------
 The Shopping Project consists of 3 Packages of Business, Pages and Regression Test cases
 
 The Business Class consist of the functional flow on each page using which the Test cases can be executed.
